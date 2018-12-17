@@ -1,0 +1,1 @@
+puts "Oh no, I forgot to account for leap years! I think there are #{(10*365)*24*60} minutes in a decade"

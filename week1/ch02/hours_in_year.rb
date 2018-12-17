@@ -1,0 +1,1 @@
+puts "Accounting for both leap and non-leap year, I decided to take the average: #{365.35*24} years"
